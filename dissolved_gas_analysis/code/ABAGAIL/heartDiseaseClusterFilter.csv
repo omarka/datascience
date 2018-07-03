@@ -1,0 +1,224 @@
+K-Means Cluster k=2
+K-Means Cluster k=2. Filter =PCA e=2
+Cluster 0 element size:830
+Cluster 1 element size:90
+K-Means Cluster k=2. Filter =PCA e=3
+Cluster 0 element size:356
+Cluster 1 element size:564
+K-Means Cluster k=2. Filter =PCA e=4
+Cluster 0 element size:367
+Cluster 1 element size:553
+K-Means Cluster k=2. Filter =PCA e=5
+Cluster 0 element size:90
+Cluster 1 element size:830
+K-Means Cluster k=2. Filter =PCA e=6
+Cluster 0 element size:553
+Cluster 1 element size:367
+K-Means Cluster k=2. Filter =PCA e=7
+Cluster 0 element size:631
+Cluster 1 element size:289
+K-Means Cluster k=2. Filter =PCA e=8
+Cluster 0 element size:275
+Cluster 1 element size:645
+K-Means Cluster k=2. Filter =PCA e=9
+Cluster 0 element size:289
+Cluster 1 element size:631
+K-Means Cluster k=2. Filter =PCA e=10
+Cluster 0 element size:289
+Cluster 1 element size:631
+K-Means Cluster k=2. Filter =IndCA e=2
+Cluster 0 element size:738
+Cluster 1 element size:182
+K-Means Cluster k=2. Filter =IndCA e=3
+Cluster 0 element size:486
+Cluster 1 element size:434
+K-Means Cluster k=2. Filter =IndCA e=4
+Cluster 0 element size:90
+Cluster 1 element size:830
+K-Means Cluster k=2. Filter =IndCA e=5
+Cluster 0 element size:616
+Cluster 1 element size:304
+K-Means Cluster k=2. Filter =IndCA e=6
+Cluster 0 element size:616
+Cluster 1 element size:304
+K-Means Cluster k=2. Filter =IndCA e=7
+Cluster 0 element size:678
+Cluster 1 element size:242
+K-Means Cluster k=2. Filter =IndCA e=8
+Cluster 0 element size:192
+Cluster 1 element size:728
+K-Means Cluster k=2. Filter =IndCA e=9
+Cluster 0 element size:304
+Cluster 1 element size:616
+K-Means Cluster k=2. Filter =IndCA e=10
+Cluster 0 element size:610
+Cluster 1 element size:310
+K-Means Cluster k=2. Filter =RPF e=2
+Cluster 0 element size:90
+Cluster 1 element size:830
+K-Means Cluster k=2. Filter =RPF e=3
+Cluster 0 element size:348
+Cluster 1 element size:572
+K-Means Cluster k=2. Filter =RPF e=4
+Cluster 0 element size:542
+Cluster 1 element size:378
+K-Means Cluster k=2. Filter =RPF e=5
+Cluster 0 element size:830
+Cluster 1 element size:90
+K-Means Cluster k=2. Filter =RPF e=6
+Cluster 0 element size:618
+Cluster 1 element size:302
+K-Means Cluster k=2. Filter =RPF e=7
+Cluster 0 element size:542
+Cluster 1 element size:378
+K-Means Cluster k=2. Filter =RPF e=8
+Cluster 0 element size:145
+Cluster 1 element size:775
+K-Means Cluster k=2. Filter =RPF e=9
+Cluster 0 element size:581
+Cluster 1 element size:339
+K-Means Cluster k=2. Filter =RPF e=10
+Cluster 0 element size:865
+Cluster 1 element size:55
+K-Means Cluster k=2. Filter =InsCA e=2
+Cluster 0 element size:275
+Cluster 1 element size:645
+K-Means Cluster k=2. Filter =InsCA e=3
+Cluster 0 element size:631
+Cluster 1 element size:289
+K-Means Cluster k=2. Filter =InsCA e=4
+Cluster 0 element size:90
+Cluster 1 element size:830
+K-Means Cluster k=2. Filter =InsCA e=5
+Cluster 0 element size:830
+Cluster 1 element size:90
+K-Means Cluster k=2. Filter =InsCA e=6
+Cluster 0 element size:90
+Cluster 1 element size:830
+K-Means Cluster k=2. Filter =InsCA e=7
+Cluster 0 element size:289
+Cluster 1 element size:631
+K-Means Cluster k=2. Filter =InsCA e=8
+Cluster 0 element size:645
+Cluster 1 element size:275
+K-Means Cluster k=2. Filter =InsCA e=8
+Cluster 0 element size:55
+Cluster 1 element size:865
+K-Means Cluster k=2. Filter =InsCA e=10
+Cluster 0 element size:645
+Cluster 1 element size:275
+K-Means Cluster k=2. Filter =No Filter
+Cluster 0 element size:517
+Cluster 1 element size:403
+EM Cluster k=2
+EM Cluster k=2. Filter =PCA e=2
+Cluster 0 element size:775
+Cluster 1 element size:145
+EM Cluster k=2. Filter =PCA e=3
+Cluster 0 element size:541
+Cluster 1 element size:379
+EM Cluster k=2. Filter =PCA e=4
+Cluster 0 element size:289
+Cluster 1 element size:631
+EM Cluster k=2. Filter =PCA e=5
+Cluster 0 element size:632
+Cluster 1 element size:288
+EM Cluster k=2. Filter =PCA e=6
+Cluster 0 element size:830
+Cluster 1 element size:90
+EM Cluster k=2. Filter =PCA e=7
+Cluster 0 element size:379
+Cluster 1 element size:541
+EM Cluster k=2. Filter =PCA e=8
+Cluster 0 element size:634
+Cluster 1 element size:286
+EM Cluster k=2. Filter =PCA e=9
+Cluster 0 element size:286
+Cluster 1 element size:634
+EM Cluster k=2. Filter =PCA e=10
+Cluster 0 element size:286
+Cluster 1 element size:634
+EM Cluster k=2. Filter =IndCA e=2
+Cluster 0 element size:63
+Cluster 1 element size:857
+EM Cluster k=2. Filter =IndCA e=3
+Cluster 0 element size:823
+Cluster 1 element size:97
+EM Cluster k=2. Filter =IndCA e=4
+Cluster 0 element size:617
+Cluster 1 element size:303
+EM Cluster k=2. Filter =IndCA e=5
+Cluster 0 element size:104
+Cluster 1 element size:816
+EM Cluster k=2. Filter =IndCA e=6
+Cluster 0 element size:787
+Cluster 1 element size:133
+EM Cluster k=2. Filter =IndCA e=7
+Cluster 0 element size:775
+Cluster 1 element size:145
+EM Cluster k=2. Filter =IndCA e=8
+Cluster 0 element size:435
+Cluster 1 element size:485
+EM Cluster k=2. Filter =IndCA e=9
+Cluster 0 element size:610
+Cluster 1 element size:310
+EM Cluster k=2. Filter =IndCA e=10
+Cluster 0 element size:553
+Cluster 1 element size:367
+EM Cluster k=2. Filter =RPF e=2
+Cluster 0 element size:287
+Cluster 1 element size:633
+EM Cluster k=2. Filter =RPF e=3
+Cluster 0 element size:145
+Cluster 1 element size:775
+EM Cluster k=2. Filter =RPF e=4
+Cluster 0 element size:288
+Cluster 1 element size:632
+EM Cluster k=2. Filter =RPF e=5
+Cluster 0 element size:90
+Cluster 1 element size:830
+EM Cluster k=2. Filter =RPF e=6
+Cluster 0 element size:465
+Cluster 1 element size:455
+EM Cluster k=2. Filter =RPF e=7
+Cluster 0 element size:865
+Cluster 1 element size:55
+EM Cluster k=2. Filter =RPF e=8
+Cluster 0 element size:631
+Cluster 1 element size:289
+EM Cluster k=2. Filter =RPF e=9
+Cluster 0 element size:90
+Cluster 1 element size:830
+EM Cluster k=2. Filter =RPF e=10
+Cluster 0 element size:145
+Cluster 1 element size:775
+EM Cluster k=2. Filter =InsCA e=2
+Cluster 0 element size:379
+Cluster 1 element size:541
+EM Cluster k=2. Filter =InsCA e=3
+Cluster 0 element size:379
+Cluster 1 element size:541
+EM Cluster k=2. Filter =InsCA e=4
+Cluster 0 element size:379
+Cluster 1 element size:541
+EM Cluster k=2. Filter =InsCA e=5
+Cluster 0 element size:286
+Cluster 1 element size:634
+EM Cluster k=2. Filter =InsCA e=6
+Cluster 0 element size:90
+Cluster 1 element size:830
+EM Cluster k=2. Filter =InsCA e=7
+Cluster 0 element size:55
+Cluster 1 element size:865
+EM Cluster k=2. Filter =InsCA e=8
+Cluster 0 element size:830
+Cluster 1 element size:90
+EM Cluster k=2. Filter =InsCA e=8
+Cluster 0 element size:90
+Cluster 1 element size:830
+EM Cluster k=2. Filter =InsCA e=10
+Cluster 0 element size:541
+Cluster 1 element size:379
+EM Cluster k=2. Filter =No Filter
+Cluster 0 element size:830
+Cluster 1 element size:90

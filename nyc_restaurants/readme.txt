@@ -8,6 +8,6 @@ In order to run this study, the following needs to be installed:
 
 The document and code is contained in the jupyter notebook file, "nyc_restaurants.ipynb".
 
-The data file should be specified as "DOHMH_New_York_City_Restaurant_Inspection_Results.csv".  This can be found in the 7zip archive "DOHMH_New_York_City_Restaurant_Inspection_Results.7zip".
+The data file should be specified as "DOHMH_New_York_City_Restaurant_Inspection_Results.csv".  This can be found in the 7zip archive "DOHMH_New_York_City_Restaurant_Inspection_Results.7z" or "DOHMH_New_York_City_Restaurant_Inspection_Results.tar.xz".
 
 To open the notebook, run "jupyter notebook" in the directory containing both files.
